@@ -1,0 +1,1 @@
+../lib/Binary.cc.o: Binary.cc ../inc/Binary.h
